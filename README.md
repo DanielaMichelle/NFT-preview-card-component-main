@@ -21,8 +21,8 @@ desktop screenshot (./screenshot/NFT-preview-card-component-desktop-screenshot.p
 
 ### Links
 
-- Solution URL:
-- Live Site URL: 
+- Solution URL: https://github.com/DanielaMichelle/NFT-preview-card-component-main
+- Live Site URL: https://danielamichelle.github.io/NFT-preview-card-component-main/
 
 
 ### Built with
